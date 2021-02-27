@@ -1,0 +1,2 @@
+# CompetitiveProgramming
+Competitive programming library
